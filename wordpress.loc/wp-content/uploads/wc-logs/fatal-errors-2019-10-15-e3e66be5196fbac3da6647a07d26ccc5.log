@@ -1,0 +1,52 @@
+2019-10-15T13:42:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress.loc\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-10-15T14:21:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress.loc\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-10-15T14:23:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress.loc\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-10-15T14:32:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress.loc\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-10-15T14:36:17+00:00 CRITICAL Uncaught Error: Call to undefined function bp_get_activity_thread_permalink() in C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\core\helpers.php:51
+Stack trace:
+#0 C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\frontend\class-frontend-main.php(52): mxsbap_decode_line_code('&lt;script type...')
+#1 C:\xampp\htdocs\wordpress.loc\wp-includes\class-wp-hook.php(286): MXSBAPFrontEndMain->mxsbap_add_pluso_script('')
+#2 C:\xampp\htdocs\wordpress.loc\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress.loc\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress.loc\wp-includes\general-template.php(2761): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress.loc\wp-content\themes\twentysixteen\footer.php(68): wp_footer()
+#6 C:\xampp\htdocs\wordpress.loc\wp-includes\template.php(722): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress.loc\wp-include in C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\core\helpers.php on line 51
+
+2019-10-15T14:37:25+00:00 CRITICAL Uncaught Error: Call to undefined function bp_get_activity_thread_permalink() in C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\core\helpers.php:51
+Stack trace:
+#0 C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\frontend\class-frontend-main.php(52): mxsbap_decode_line_code('&lt;script type...')
+#1 C:\xampp\htdocs\wordpress.loc\wp-includes\class-wp-hook.php(286): MXSBAPFrontEndMain->mxsbap_add_pluso_script('')
+#2 C:\xampp\htdocs\wordpress.loc\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress.loc\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress.loc\wp-includes\general-template.php(2761): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress.loc\wp-content\themes\twentysixteen\footer.php(68): wp_footer()
+#6 C:\xampp\htdocs\wordpress.loc\wp-includes\template.php(722): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress.loc\wp-include in C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\core\helpers.php on line 51
+
+2019-10-15T14:37:43+00:00 CRITICAL Uncaught Error: Call to undefined function bp_get_activity_thread_permalink() in C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\core\helpers.php:51
+Stack trace:
+#0 C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\frontend\class-frontend-main.php(52): mxsbap_decode_line_code('&lt;script type...')
+#1 C:\xampp\htdocs\wordpress.loc\wp-includes\class-wp-hook.php(286): MXSBAPFrontEndMain->mxsbap_add_pluso_script('')
+#2 C:\xampp\htdocs\wordpress.loc\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress.loc\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress.loc\wp-includes\general-template.php(2761): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress.loc\wp-content\themes\twentysixteen\footer.php(68): wp_footer()
+#6 C:\xampp\htdocs\wordpress.loc\wp-includes\template.php(722): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress.loc\wp-include in C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\core\helpers.php on line 51
+
+2019-10-15T14:41:09+00:00 CRITICAL Uncaught Error: Call to undefined function bp_get_activity_thread_permalink() in C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\core\helpers.php:51
+Stack trace:
+#0 C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\frontend\class-frontend-main.php(52): mxsbap_decode_line_code('&lt;script type...')
+#1 C:\xampp\htdocs\wordpress.loc\wp-includes\class-wp-hook.php(286): MXSBAPFrontEndMain->mxsbap_add_pluso_script('')
+#2 C:\xampp\htdocs\wordpress.loc\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress.loc\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress.loc\wp-includes\general-template.php(2761): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress.loc\wp-content\themes\twentysixteen\footer.php(68): wp_footer()
+#6 C:\xampp\htdocs\wordpress.loc\wp-includes\template.php(722): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress.loc\wp-include in C:\xampp\htdocs\wordpress.loc\wp-content\plugins\share-buddypress-activity-pluso\includes\core\helpers.php on line 51
+
